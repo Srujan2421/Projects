@@ -1,1 +1,3 @@
-# Project Details 
+# Project Details
+
+# git config
